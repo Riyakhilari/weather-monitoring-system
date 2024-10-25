@@ -1,0 +1,13 @@
+{
+    "api_key": "9436389cc83e5f3db92880e7c6b3b266",
+    "locations": [
+        "Delhi",
+        "Mumbai",
+        "Chennai",
+        "Bangalore",
+        "Kolkata",
+        "Hyderabad"
+    ],
+    "interval": 600,
+    "temperature_threshold": 30
+}
